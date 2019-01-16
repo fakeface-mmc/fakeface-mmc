@@ -6,3 +6,4 @@ We also provide a dataset consisting of real images and fake face images generat
 We provide an experimental code and do not guarantee actual deepfake detection.
 
 # Usage
+python main_slim.py --data_dir=<path_to_dataset>
