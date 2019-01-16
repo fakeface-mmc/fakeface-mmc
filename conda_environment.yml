@@ -1,0 +1,64 @@
+name: Rnd_2nd
+channels:
+  - defaults
+dependencies:
+  - certifi=2018.11.29=py36_0
+  - pip=18.1=py36_0
+  - python=3.6.5=h0c2934d_0
+  - setuptools=40.6.3=py36_0
+  - vc=14.1=h0510ff6_4
+  - vs2015_runtime=14.15.26706=h3a45250_0
+  - wheel=0.32.3=py36_0
+  - wincertstore=0.2=py36h7fe50ca_0
+  - conda:
+    - absl-py==0.6.1
+    - astor==0.7.1
+    - chardet==3.0.4
+    - cloudpickle==0.6.1
+    - cycler==0.10.0
+    - dask==1.0.0
+    - decorator==4.3.0
+    - gast==0.2.0
+    - h5py==2.9.0
+    - idna==2.7
+    - imageio==2.4.1
+    - joblib==0.13.0
+    - keras==2.2.4
+    - keras-applications==1.0.6
+    - keras-preprocessing==1.0.5
+    - kiwisolver==1.0.1
+    - lxml==4.2.5
+    - markdown==3.0.1
+    - matplotlib==3.0.2
+    - networkx==2.2
+    - numpy==1.15.4
+    - pillow==5.3.0
+    - protobuf==3.6.1
+    - pyparsing==2.3.0
+    - python-dateutil==2.7.5
+    - python-utils==2.3.0
+    - pywavelets==1.0.1
+    - pyyaml==3.13
+    - scikit-image==0.14.1
+    - scikit-learn==0.20.2
+    - scipy==1.1.0
+    - six==1.12.0
+    - tensorboard==1.12.1
+    - tensorflow-gpu==1.12.0
+    - termcolor==1.1.0
+    - toolz==0.9.0
+    - tqdm==4.28.1
+    - werkzeug==0.14.1
+    - wrapt==1.10.11
+  - pip:
+    - grpcio==1.17.1
+    - progressbar2==3.38.0
+    - wget==3.2
+    - opencv-python==3.4.4.19
+    - tensorlayer==1.11.1
+    - dlib==19.8.1
+    - keras-vggface==0.5
+    - requests==2.20.1
+    - urllib3==1.24.1
+prefix: C:\Anaconda3\envs\Rnd_2nd
+
